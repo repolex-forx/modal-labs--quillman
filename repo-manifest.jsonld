@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/quillman/commit/43f7532979084eba1b3d24408921b3511bcc85b2",
       "git:hexsha": "43f7532979084eba1b3d24408921b3511bcc85b2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
